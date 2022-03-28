@@ -1,0 +1,13 @@
+body { background-color: darkkhaki;}
+dl > dt { font-weight: bold;}
+h1 { font-size: 50px; background-color: darkolivegreen;}
+h3 { text-shadow: 4px 4px 4px; background-color: olivedrab;}
+h4 { text-shadow: 4px 4px 4px; background-color: olivedrab;}
+img { width: 250px;}
+a:link { color: rgb(0, 0, 0); background-color: olive;}
+a:visited { color: rgb(0, 0, 0); background-color: olive;}
+a:active { color: olive;}
+a:hover { color: olive;}
+th { color: yellowgreen;}
+a [href^="link do filmiku"] { font-weight: bold;}
+table, th, td { border: 1px solid darkslategray; border-collapse: collapse; background-color: lightgoldenrodyellow;}
